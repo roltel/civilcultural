@@ -1,14 +1,14 @@
-#Projecto Civil Cultural
+# Projecto Civil Cultural
 
 Este projeto tem como finalidade criar um portal de informação noticiosa com a possibilidade de os leitores poderem votar nas noticias e fazer comentários.
 
-#Desenvolvimento
+# Desenvolvimento
 Toodas as alterações devem ser empurradas para dentro deste github;
 
-#Versão Demo
+# Versão Demo
 Temporariamente a versão demo está a correr em: http://social-real.futuragora.pt/civilcultural/
 
-#Notas antigas sobre o Projecto (em revisão)
+# Notas antigas sobre o Projecto (em revisão)
 
 
 Pormenores do projeto                                            
