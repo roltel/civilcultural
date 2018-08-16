@@ -65,9 +65,9 @@
         <div class="row h-100">
             <div class="col-md-2" id="sidebar">
                 <h4>
-                    <a href="#">Return to main</a>
+                    <a href="index.php">Return to main</a>
                 </h4>
-                <h4>Portal News</h4>
+                <h4> <a href="news.php">News</a></h4>
             </div>
             <div class="col-md-10">
                 <div class="row" id="nav">
@@ -76,10 +76,10 @@
                     </div>
                     <div class="col-sm-8">
                         <span>
-                            <img src="images/civilcultural.jpg" alt="logo">CIVIL CULTURAL</span>
+                            <img src="images/civilcultural.jpg" height="50" alt="logo"></span>
                     </div>
                     <div class="col-sm-2">
-                        <span>United Kingdom
+                        <span>
                             <img src="images/English-Language-Flag-1-icon.png" height="50" alt="flag">
                         </span>
                     </div>
